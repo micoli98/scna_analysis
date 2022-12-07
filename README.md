@@ -13,6 +13,6 @@ Steps:
 * Results: production of sunrises plots, multiploidy plots for multiploidy patients. 
 
 <img
-  src="Pipeline_schema.pdf"
+  src="Pipeline_schema.png"
   alt="Pipeline Figure"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; max-width: 50px">
