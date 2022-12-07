@@ -12,4 +12,4 @@ Steps:
 * Purple: combines data from Gripss, Amber and Cobalt with also SNVs (from another analysis) and calculates ploidy and purity. It performs the final segmentation inferring copy number regions. Given the Driver genes list ([HMF resources](https://console.cloud.google.com/storage/browser/hmf-public/HMFtools-Resources/dna_pipeline;tab=objects?prefix=&forceOnObjectsSortingFiltering=false)) it also tries to understand the driver mutations. Done at sample level.
 * Results: production of sunrises plots, multiploidy plots for multiploidy patients. 
 
-![Pipeline figure](/Users/micoli/Documents/Works/Pipeline_schema.pdf "Pipeline figure")
+![Pipeline figure](pipeline_schema.pdf)
